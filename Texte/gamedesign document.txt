@@ -1,44 +1,95 @@
 Gamedesign Document
 
-•	Story
+Story:
 
-Die Zombie-Apokalypse ist über Beverly Hills hereingebrochen. Du bist Kim Kardashian und zum Glück – noch – kein Zombie. Dafür aber ein Smombie! Dein Smartphone war dir immer wichtiger als dein Baby, deine Social-Media- und Fernseh-Präsenz war deine Nahrung. Doch nun in der Zombie-Apokalypse geht es nur noch ums blanke Überleben. Doch deine Sucht nach Medienpräsenz lässt dich nicht los: Die Erzählerstimme, die dich durch das Spiel begleitet, versucht dich immer wieder davon zu überzeugen, doch dein Handy zu benutzen (denn es gibt zwar kein fließend Wasser und Strom mehr, aber alle Handys gehen noch), um dein Instagram-Profil zu updaten. Auf dem Weg musst du vor Film-Teams, Paparazzis und Paris-Hilton-Zombies flüchten und dabei deine Familie, sprich die anderen Kardashian-Schwestern, retten. Du gewinnst das Spiel, wenn du es schaffst, kein Zombie zu werden und mehr als die Hälfte deiner Familienmitglieder nach North Dakota geschafft zu haben. Warum North Dakota? Dort ist die Zombie-Apokalypse nämlich noch nicht angekommen. Und außerdem ist die Internetverbindung dort zu schlecht, um zum Smombie zu werden.
+Die Zombie-Apokalypse ist über Beverly Hills hereingebrochen.
+Du bist Kim Kardashian und zum Glück – noch – kein Zombie.
+Dafür aber ein Smombie!
+Dein Smartphone war dir immer wichtiger als dein Baby, deine Social-Media- und Fernseh-Präsenz war deine Nahrung.
+Doch nun in der Zombie-Apokalypse geht es nur noch ums blanke Überleben.
+Doch deine Sucht nach Medienpräsenz lässt dich nicht los:
+Die Erzählerstimme, die dich durch das Spiel begleitet, versucht dich immer wieder davon zu überzeugen,
+doch dein Handy zu benutzen (denn es gibt zwar kein fließend Wasser und Strom mehr, aber alle Handys gehen noch),
+um dein Instagram-Profil zu updaten.
+Auf dem Weg musst du vor Film-Teams, Paparazzis und Paris-Hilton-Zombies flüchten und dabei deine Familie,
+sprich die anderen Kardashian-Schwestern, retten.
+Du gewinnst das Spiel, wenn du es schaffst, kein Zombie zu werden
+und mehr als die Hälfte deiner Familienmitglieder nach North Dakota geschafft zu haben.
+Warum North Dakota? Dort ist die Zombie-Apokalypse nämlich noch nicht angekommen.
+Und außerdem ist die Internetverbindung dort zu schlecht, um zum Smombie zu werden.
 
 Story im Detail:
--	1.Level: Kanye muss gerettet werden.
-Ausgangssituation: Kim wacht auf vor den Stufen ihrer Villa in Beverly Hills, sie weiß nicht genau, was passiert ist. Die ganze Stadt ist zerstört, Blut ziert die Wände. Je mehr Objekte und Orte sie untersucht, desto klarer kommt ihre Erinnerung zurück: Die Zombie-Apokalyse ist ausgebrochen: Alles begann mit ihrer Stiefschwester Kylie, die zu oft den Zombie-Snapchat-Filter benutzt hatte. Aber wie alles begann, ist nun egal. Kim entdeckt einen Truck mit einem vollen Benzintank hinter ihrem Haus stehen. Daneben liegt ein toter Tyga. Es muss wohl sein Auto sein. Er muss die Apokalypse schon kommen gesehen haben. Wenn sie ins Auto steigt, sieht sie auf einer Karte einen Ort rot eingekreist: „The Green Place“. Es ist ein kleiner Ort in North Dakota, der noch sicher ist vor den Zombies. Sie merkt: Es ist ihr Ziel, ihre Familie zusammen zu suchen und dorthin zu fliehen. Als erstes muss sie Kanye finden. Sie wird Kanye an einem Ort (auf einer Mauer?) finden, auf die er von Zombies gejagt wurde. Nun kann er nicht runter, da die Zombies ihm seine Adidas Schuhe geklaut haben. Und er ist sich viel zu fein, um ohne Schuhe wieder auf den dreckigen Boden herunter zu springen. Also muss sie ihm neue Schuhe finden. Und es müssen Adidas Schuhe sein! Wo sie sie herbekommt, muss ich noch überlegen. Vielleicht aus einem verlassenen Sneakers-Laden, in den sie aber erst einbrechen muss. Mit einem Schlüssel, den sie irgendwo herbekommt. Im Idealfall ist es der Laden von ihrer Schwester. An den Schlüssel gelangt man durch ein Puzzle. Sobald man Kanye von der Mauer geholt und ins Auto gebracht hat, schläft man ein und es ist der nächste Tag / nächstes Level.
-?	Offenes: Wie involviere ich das „Nerven“ durch das Handy? Eine Möglichkeit wäre, alle paar Züge (berechnet) an das Handy zu erinnern. Z.B. wenn der Akkustand niedrig ist. Mit Kommentaren wie „Das Handy könnte wirklich noch wichtig werden!“. Oder wenn man auf etwas Interessantes wie den toten Tyga stößt: „Wow! Ein toter Rapper! Wann siehst du so etwas ein zweites Mal im Leben? Das solltest du auf Instagram festhalten!“. Es wird aber, bis man einmal gestorben ist, immer so getan, als ob das Handy wirklich wichtig wäre, bierernst. Erst, wenn man gestorben ist, kommt da: „Warst du wirklich so dumm, zu denken, ein Handy würde dir in der Zombie Apokalypse helfen?“ und dann weiß man das hoffentlich und kommt dann im zweiten Spielverlauf locker durch.
 
--	Letztes Level: North und Saint müssen gerettet werden
+1.Level: Kanye muss gerettet werden.
 
-•	Characters
+Ausgangssituation:
+Kim wacht auf vor den Stufen ihrer Villa in Beverly Hills, sie weiß nicht genau, was passiert ist.
+Die ganze Stadt ist zerstört, Blut ziert die Wände.
+Je mehr Objekte und Orte sie untersucht, desto klarer kommt ihre Erinnerung zurück:
+Die Zombie-Apokalyse ist ausgebrochen:
+Alles begann mit ihrer Stiefschwester Kylie, die zu oft den Zombie-Snapchat-Filter benutzt hatte.
+Aber wie alles begann, ist nun egal. Kim entdeckt einen Truck mit einem vollen Benzintank hinter ihrem Haus stehen.
+Daneben liegt ein toter Tyga. Es muss wohl sein Auto sein. Er muss die Apokalypse schon kommen gesehen haben.
+Wenn sie ins Auto steigt, sieht sie auf einer Karte einen Ort rot eingekreist: „The Green Place“.
+Es ist ein kleiner Ort in North Dakota, der noch sicher ist vor den Zombies. Sie merkt:
+Es ist ihr Ziel, ihre Familie zusammen zu suchen und dorthin zu fliehen. Als erstes muss sie Kanye finden.
+Sie wird Kanye an einem Ort (auf einer Mauer?) finden, auf die er von Zombies gejagt wurde.
+Nun kann er nicht runter, da die Zombies ihm seine Adidas Schuhe geklaut haben.
+Und er ist sich viel zu fein, um ohne Schuhe wieder auf den dreckigen Boden herunter zu springen.
+Also muss sie ihm neue Schuhe finden. Und es müssen Adidas Schuhe sein!
+Wo sie sie herbekommt, muss ich noch überlegen. Vielleicht aus einem verlassenen Sneakers-Laden,
+in den sie aber erst einbrechen muss. Mit einem Schlüssel, den sie irgendwo herbekommt.
+Im Idealfall ist es der Laden von ihrer Schwester. An den Schlüssel gelangt man durch ein Puzzle.
+Sobald man Kanye von der Mauer geholt und ins Auto gebracht hat, schläft man ein
+und es ist der nächste Tag / nächstes Level.
+
+Offenes: Wie involviere ich das „Nerven“ durch das Handy?
+Eine Möglichkeit wäre, alle paar Züge (berechnet) an das Handy zu erinnern.
+Z.B. wenn der Akkustand niedrig ist. Mit Kommentaren wie „Das Handy könnte wirklich noch wichtig werden!“.
+Oder wenn man auf etwas Interessantes wie den toten Tyga stößt:
+„Wow! Ein toter Rapper! Wann siehst du so etwas ein zweites Mal im Leben? Das solltest du auf Instagram festhalten!“.
+Es wird aber, bis man einmal gestorben ist, immer so getan, als ob das Handy wirklich wichtig wäre, bierernst.
+Erst, wenn man gestorben ist, kommt da: „Warst du wirklich so dumm, zu denken, ein Handy würde dir in der Zombie Apokalypse helfen?“
+und dann weiß man das hoffentlich und kommt dann im zweiten Spielverlauf locker durch.
+
+Letztes Level: North und Saint müssen gerettet werden
+
+Characters:
 
 -	Die Figur des Spielers ist Kim Kardashian.
 -	Der Erzähler ist allwissend und teilweise irreführend.
 -	Es gibt mehrere NPCs, u.A. Mitglieder von Kims Familie (Kanye West, North West, Schwestern), die sie im Laufe des Spiels retten werden muss:
-o	Kim, 35: verheiratet mit Kanye West. Wohnt eigentlich in Bel Air, nicht Beverly Hills. Wir tun einfach so, als ob der gesamte Kardashian-Clan in Beverly Hills wohnt. Kim ist oberflächlich. Es ist ihr stets wichtig, gut auszusehen, und sich auf Instagram und Spapchat zu inszenieren. Sie kann manchmal schnell zickig werden.
-o	Kanye West, 38: Ehemann: ist egozentrisch und hält sich für ein Genie. Er muss gerettet werden vor den Zombies. Ist eher schweigsam und stur. Macht nichts, das er für keine gute Idee hält. Mag nur Leute, die ihm Geld geben oder in den Arsch kriechen.
-o	North West, 2: Tochter: Muss man retten. Ist erst 2, aber schon ein richtig verwöhntes Balg, das auch mal laut rumheult, wenn es nicht bekommt, was es will.
-o	Saint West, 6 Monate: Sohn: Muss man retten
-o	Kris: Mutter: Muss man retten (optional)
-o	Kylie Jenner, 18: die jüngste (Stief-)Schwester: ist schon Zombie. Ist immer ein wenig leichtsinnig und unprofessionell. Ist mit Rapper Tyga zusammen.
--	Andere NPCs sind Hollywood-Sternchen, die bereits zu Zombies geworden sind
+		Kim, 35: verheiratet mit Kanye West. Wohnt eigentlich in Bel Air, nicht Beverly Hills.
+			Wir tun einfach so, als ob der gesamte Kardashian-Clan in Beverly Hills wohnt. Kim ist oberflächlich.
+			Es ist ihr stets wichtig, gut auszusehen, und sich auf Instagram und Spapchat zu inszenieren.
+			Sie kann manchmal schnell zickig werden.
+		Kanye West, 38: Ehemann: ist egozentrisch und hält sich für ein Genie. Er muss gerettet werden vor den Zombies.
+			Ist eher schweigsam und stur. Macht nichts, das er für keine gute Idee hält.
+			Mag nur Leute, die ihm Geld geben oder in den Arsch kriechen.
+		North West, 2: Tochter: Muss man retten. Ist erst 2, aber schon ein richtig verwöhntes Balg,
+			das auch mal laut rumheult, wenn es nicht bekommt, was es will.
+		Saint West, 6 Monate: Sohn: Muss man retten
+		Kris: Mutter: Muss man retten (optional)
+		Kylie Jenner, 18: die jüngste (Stief-)Schwester: ist schon Zombie. Ist immer ein wenig leichtsinnig und unprofessionell.
+			Ist mit Rapper Tyga zusammen.
+		Andere NPCs sind Hollywood-Sternchen, die bereits zu Zombies geworden sind
 -	Oder Fans, Paparazzi und Film-Teams (Hindernisse)
 
-•	Level/environment design
-?	Handgezeichnet
-Die Handlung spielt an verschiedenen Orten im verlassenen und zerstörten Beverly Hills. Teilweise werden die Räume öffentliche Orte in Beverly Hills sein wie Parks, Plätze oder Brunnen. Aber auch in Villen, Casinos, 
+Level/environment design:
+Handgezeichnet
+Die Handlung spielt an verschiedenen Orten im verlassenen und zerstörten Beverly Hills.
+Teilweise werden die Räume öffentliche Orte in Beverly Hills sein wie Parks, Plätze oder Brunnen. Aber auch in Villen, Casinos, 
 
-•	Gameplay
+Gameplay
 
-•	User Interface, Game Controls
+User Interface, Game Controls
 
--	Oben am Rand stehen:
+Oben am Rand stehen:
 immer Datum/Uhrzeit (entspricht dem „Level“): muss
 der Raum, in dem man sich momentan befindet: muss
 wie viel Handyakku man noch hat: kommt drauf an, welchen Schwerpunkt ich im Spiel noch setze
 wie viele „Leben“ man noch hat: NEIN. Nur intern. Man verliert Leben, wenn man das Handy benutzt/auflädt.
 
 
--	Es gibt ein Menü, das man aufrufen kann, das einem die Credits und Tipps zur Nutzung des Spiels anzeigt
+Es gibt ein Menü, das man aufrufen kann, das einem die Credits und Tipps zur Nutzung des Spiels anzeigt
 
